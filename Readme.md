@@ -39,4 +39,4 @@ To download the saved model, follow these steps:
 Dhaksin.S
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License]([https://github.com/Dhaksin53/-IREX-El-Salvador-Sentiment_analysis/blob/main/MIT%20License)]).
